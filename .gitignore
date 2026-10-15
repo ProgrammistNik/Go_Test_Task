@@ -1,0 +1,7 @@
+.env
+.idea/
+.serena/
+.vscode/
+bin/
+coverage.out
+*.log
